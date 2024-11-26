@@ -1,4 +1,4 @@
-# Video-Chat Web Application through Agora
+# Video-Chat Web Application using Agora Video SDK
 
 
 
